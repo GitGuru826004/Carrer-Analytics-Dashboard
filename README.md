@@ -2,8 +2,6 @@
 
 A data-driven Power BI dashboard analyzing global career trends, salary satisfaction, and programming preferences from a survey of 630 respondents across 10+ countries.
 
-![Career Survey Dashboard](https://github.com/GitGuru826004/Carrer-Analytics-Dashboard/blob/main/Screenshot%202025-06-08%20143148.png)
-
 ---
 
 ## 🧠 Project Overview
